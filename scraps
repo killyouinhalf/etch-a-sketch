@@ -1,0 +1,19 @@
+<header>
+	<div id="header_bar">
+		<h1>Draw, I dare ya!</h1>
+	</div>
+</header>
+
+<wrapper>
+
+
+
+
+
+
+</wrapper>
+
+
+n = document.getElementById('square')
+
+	document.n.appendChild(div);
